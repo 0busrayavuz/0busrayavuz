@@ -2,9 +2,9 @@
 
 # 👋 Merhaba, Ben Büşra
 
-**Karmaşık problemleri veri odaklı yaklaşımlar ve Yapay Zeka ile çözmeyi hedefleyen bir Bilgisayar Mühendisliği Öğrencisi.**
+**Veri Bilimi ve Yapay Zeka alanlarına ilgi duyan bir Bilgisayar Mühendisliği öğrencisiyim.**
 
-🚀 **Misyonum:** Veri bilimi ve yeni nesil teknolojiler ile akademik teori ve endüstriyel çözümler arasındaki köprüyü kurmak.
+🚀 **Odak Alanlarım:** Veri Analizi, Makine Öğrenmesi ve Web Geliştirme.
 
 <!-- Sosyal Medya Bağlantıları -->
 <a href="https://linkedin.com/in/0busrayavuz"><img src="https://img.shields.io/badge/BAĞLAN-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -12,18 +12,6 @@
 <a href="mailto:busrayavuzz77@icloud.com"><img src="https://img.shields.io/badge/İLETİŞİM-EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
-
-<br/>
-<hr/>
-<br/>
-
-## 🏆 Başarılar & Akademik Programlar
-
-| Organizasyon | Başarı |
-| :--- | :--- |
-| **Google** | 🎓 **Artificial Intelligence and Technology Academy** için 25.000+ başvuru arasından seçilen 2.000 bursiyerden biri oldu |
-| **Girişimcilik Vakfı (GİRVAK)** | 🚀 **YZTA** (Yapay Zeka ve Teknoloji Akademisi) stajyeri olarak 2.000+ bursiyerlik topluluğun operasyonel yönetiminde rol aldı |
-| **Şişecam & TurkishWIN** | 💡 **Women Advancing into the Future Program** kapsamında Yapay Zeka ve STEM alanlarında eğitimleri tamamladı |
 
 <br/>
 <hr/>
