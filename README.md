@@ -1,22 +1,16 @@
 <div align="center">
-  <img src="./header.svg" width="100%" alt="Büşra Yavuz Banner"/>
+
+# Büşra Yavuz
+
+### `Computer Engineer` · `Data Science & Analytics` · `Istanbul 📍`
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/0busrayavuz)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@0busrayavuz)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:busrayavuzz77@icloud.com)
+
 </div>
 
-<div align="center">
-  <a href="https://linkedin.com/in/0busrayavuz" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="https://medium.com/@0busrayavuz" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-  </a>
-  &nbsp;
-  <a href="mailto:busrayavuzz77@icloud.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</div>
-
-<br/>
+---
 
 ## 👩‍💻 About Me & Focus Areas
 
