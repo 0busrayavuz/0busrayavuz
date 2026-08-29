@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0F2027,50:15616B,100:2EC4B6&height=180&section=header&text=B%C3%BC%C5%9Fra%20Yavuz&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineer%20%7C%20Data%20Science%20%26%20Analytics&descAlignY=60&descAlign=50" width="100%"/>
+  <img src="./header.svg" width="100%" alt="Büşra Yavuz Banner"/>
 </div>
 
 <div align="center">
@@ -55,10 +55,4 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=0busrayavuz&theme=dark&hide_border=true&ring=2EC4B6&fire=2EC4B6&currStreakLabel=2EC4B6&background=0D1117" width="49%" alt="Streak Stats"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=0busrayavuz&theme=github_dark" width="49%" alt="Profile Summary Cards"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:15616B,100:2EC4B6&height=3" width="100%"/>
 </div>
