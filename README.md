@@ -1,8 +1,8 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=1500&color=2EC4B6&center=true&vCenter=true&width=700&height=80&lines=Büşra+Yavuz)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=2500&pause=1500&color=2EC4B6&center=true&vCenter=true&width=700&height=80&lines=Büşra+Yavuz)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=1200&color=8FA6B2&center=true&vCenter=true&width=700&height=36&lines=Computer+Engineer;Data+Science+%26+Analytics;Machine+Learning+%7C+Advanced+SQL;Istanbul%2C+Turkey+📍)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=1500&color=8FA6B2&center=true&vCenter=true&width=700&height=36&lines=Computer+Engineer;Data+Science+%26+Analytics;Machine+Learning+%7C+Advanced+SQL;Istanbul%2C+Turkey+📍)](https://git.io/typing-svg)
 
 <br/>
 
